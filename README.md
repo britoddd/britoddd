@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Brian!👋
+I'm a Computer Science student who working on Machine Learning application with NLP and Computer Vision.
+
+## What I've built
+#### 💬 **[indonesian-swear-words-detector](https://github.com/britoddd/indonesian-swear-words-detector)**
+Four-level Indonesian abusive-language classifier. Fine-tuned IndoBERTweet against Naive Bayes, Logistic Regression and LinearSVC baselines, with preprocessing built to survive obfuscation: spaced-out characters, leet substitution, slang normalisation via kamusalay, Sastrawi stemming. Served through Streamlit with the same preprocessing module used in training.
+`{{macro-F1 here once the results table exists}}` · [Demo](https://huggingface.co/spaces/britod/swear-words-detector)
+ 
+#### 🌱 **[onoma-trace](https://github.com/britoddd/onoma-trace)**
+Predicts country of origin from a personal name across 104 countries, using character n-gram TF-IDF and linear models. Includes a set-lenient metric I defined to separate genuine errors from irreducible ambiguity, since many names legitimately belong to several countries.
+`macro-F1 0.500` · [Demo](https://huggingface.co/spaces)
 
 <!--
 **britoddd/britoddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
