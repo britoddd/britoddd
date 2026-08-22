@@ -16,7 +16,7 @@ Predicts country of origin from a personal name across 104 countries, using char
 
 <!-- Role sentences are the whole point of this section. "Contributed to X" tells a reviewer nothing; naming your part is checkable against the commit log and safe to be questioned on in an interview. -->
 ### **[AirBlocks](https://github.com/jstn77/Air-Blocks-Hand-Gesture-Tracking-Block-Puzzle-Games)**
-Block puzzle game controlled entirely by hand gestures. Tracking gestures using Mediapipe, translated into AirBlocks movement. · [[Demo](https://huggingface.co/spaces/britod/airblocks-handgesture-games)]
+Block puzzle game controlled entirely by hand gestures. Tracking gestures using Mediapipe, translated into AirBlocks movement. · [Demo](https://huggingface.co/spaces/britod/airblocks-handgesture-games)]
 
 `Computer Vision` `Machine Learning` `Games` `Mediapipe`
 
