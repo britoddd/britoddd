@@ -3,20 +3,19 @@ I'm a Computer Science student at Bina Nusantara University, working on Artifici
 
 ## What I've built
 ### **[indonesian-swear-words-detector](https://github.com/britoddd/indonesian-swear-words-detector)**
-Four-level Indonesian abusive-language classifier. Fine-tuned IndoBERTweet against Naive Bayes, Logistic Regression and LinearSVC baselines, with preprocessing built to survive obfuscation: spaced-out characters, leet substitution, slang normalisation, Sastrawi stemming.
-· [Demo](https://huggingface.co/spaces/britod/swear-words-detector)
+Four-level Indonesian abusive-language classifier. Fine-tuned IndoBERTweet against Naive Bayes, Logistic Regression and LinearSVC baselines, with preprocessing built to survive obfuscation: spaced-out characters, leet substitution, slang normalisation, Sastrawi stemming. [Demo](https://huggingface.co/spaces/britod/swear-words-detector)
 
 `NLP` `Machine Learning` `Deep Learning`
  
 ### **[onoma-trace](https://github.com/britoddd/onoma-trace)**
 Predicts country of origin from a personal name across 104 countries, using character n-gram TF-IDF and linear models.
-· [Demo](https://huggingface.co/spaces)
+[Demo](https://huggingface.co/spaces)
 
 `NLP` `Machine Learning`
 
 <!-- Role sentences are the whole point of this section. "Contributed to X" tells a reviewer nothing; naming your part is checkable against the commit log and safe to be questioned on in an interview. -->
 ### **[AirBlocks](https://github.com/jstn77/Air-Blocks-Hand-Gesture-Tracking-Block-Puzzle-Games)**
-Block puzzle game controlled entirely by hand gestures. Tracking gestures using Mediapipe, translated into AirBlocks movement. · [Demo](https://huggingface.co/spaces/britod/airblocks-handgesture-games)]
+Block puzzle game controlled entirely by hand gestures. Tracking gestures using Mediapipe, translated into AirBlocks movement. [Demo](https://huggingface.co/spaces/britod/airblocks-handgesture-games)
 
 `Computer Vision` `Machine Learning` `Games` `Mediapipe`
 
