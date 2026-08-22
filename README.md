@@ -16,7 +16,7 @@ Predicts country of origin from a personal name across 104 countries, using char
 
 <!-- Role sentences are the whole point of this section. "Contributed to X" tells a reviewer nothing; naming your part is checkable against the commit log and safe to be questioned on in an interview. -->
 ### **[AirBlocks](https://github.com/jstn77/Air-Blocks-Hand-Gesture-Tracking-Block-Puzzle-Games)**
-Block puzzle game controlled entirely by hand gestures. My part: the web interface and deployment. The original build ran OpenCV camera capture server-side, which can't work on a cloud host with no camera — so I moved hand tracking fully client-side with MediaPipe Tasks for Web and shipped a browser-only edition.
+Block puzzle game controlled entirely by hand gestures. Tracking gestures using Mediapipe, translated into AirBlocks movement.
 
 `Computer Vision` `Machine Learning` `Games` `Mediapipe`
 
@@ -30,7 +30,7 @@ random Forest regressor estimating Indonesian used-car prices from brand, model,
 To-do list web application, React + Vite. My part: the Firebase backend — Firestore data model, authentication, and client/server synchronisation — plus UI work.
 -->
 
-## Also
+## Extras
 > I self-host. A Debian box at home runs my deployments behind nginx and a Cloudflare Tunnel, alongside Immich, and a Minecraft server. Most of what I know about Linux, reverse proxies and DNS came from breaking that machine and fixing it again.
 
 ## Working with
